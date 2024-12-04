@@ -1,0 +1,84 @@
+body {
+    background-image: url(./pixelcut-export.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+   p {
+    text-align: left;
+    font-size: xx-large;
+    font-style:oblique;
+    color: aliceblue;
+   
+
+   }
+   h1 {
+    text-align: right;
+    font-size: xx-large;
+    font-style: oblique;
+    color: aliceblue;
+    margin-top: right;
+    margin-top: 36px;
+    transform:translate(0,-287px);
+   }
+   
+    h2 {
+        text-align: center;
+        font-size: x-large;
+        font-style:inherit;
+        color:darkred ;
+        text-decoration: double;
+        text-overflow: ellipsis;
+       text-shadow: 0cqb;
+       text-decoration-color: brown;
+       -webkit-text-fill-color: crimson;
+       border: 170px;
+       
+
+    }
+    button {
+        align-items:center ;
+        font-size: large;
+        margin-top: 30px;
+        cursor: pointer;
+        margin-left: 20px;
+        margin-bottom: 50px;
+        color: black;
+        
+        background-color:rgb(183, 205, 183);
+    }
+    .img2{
+        transform: translate(1150px,-280px)
+        
+    }
+    .img2:hover {
+        opacity: 6;
+    }
+    li {
+        font-size: medium;
+        font-style: normal;
+        background-color: rgb(15, 58, 58);
+        color: coral;
+        cursor: pointer;
+        
+    }
+     li :hover {
+
+        background-color: whitesmoke;
+     }   
+.Urdiv {
+    background-color: bisque;
+    border-color:black;
+    border-style:solid ;
+    height: 200px;
+    width:400px;
+    text-align:center;
+    text-transform: uppercase;
+    text-decoration-style: solid;
+    margin-left: 550px;
+    word-spacing:5% ;
+}
+        
+    }
+    
+
